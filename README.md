@@ -26,7 +26,7 @@
 </a>
 
 <a href="https://www.w3schools.com/cpp/" target="_blank">
-<img src="https://skillicons.dev/icons?i=cpp" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="html"/>
 </a>
 
 <a href="https://www.w3.org/Style/CSS/" target="_blank">
