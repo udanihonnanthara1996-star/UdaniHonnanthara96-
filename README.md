@@ -14,18 +14,16 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.topcoder.com/members/12500" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="12500" height="30" width="40" /></a>
+</p>
 <h3 align="center">Languages and Tools:</h3>
-
 <p align="center">
-<div>
   <a href="https://getbootstrap.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48"/>
 </a>
-<br></br>
+
 <a href="https://www.cprogramming.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=c" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="c"/>
 </a>
-</div>
 
 <a href="https://www.w3schools.com/cpp/" target="_blank">
 <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48"/>
