@@ -17,14 +17,15 @@
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center">
-
-<a href="https://getbootstrap.com/" target="_blank">
+<div>
+  <a href="https://getbootstrap.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48"/>
 </a>
-
+<br></br>
 <a href="https://www.cprogramming.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=c" width="48" height="48"/>
 </a>
+</div>
 
 <a href="https://www.w3schools.com/cpp/" target="_blank">
 <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48"/>
